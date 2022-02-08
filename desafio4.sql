@@ -1,6 +1,6 @@
 SELECT 
 	user.nome AS usuario,
-    IF(MAX(history.data_reproducao) >= '2021-01-01', 'Usuario Ativo','Usuario Inativo') AS condicao_usuario
+    IF(MAX(history.data_reproducao) >= '2021-01-01', 'Usuário ativo','Usuário inativo') AS condicao_usuario
 FROM 
 	SpotifyClone.usuario AS user
 INNER JOIN 

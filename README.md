@@ -4,7 +4,7 @@
 
 ## Descrição do Projeto
 
-<p>:rocket: Aqui construi arquivos .sql de um banco do zero, modelei as tabelas e contrui queries :muscle:</p>
+<p>:rocket: Aqui eu construi arquivos .sql de um banco de dados do zero, modelei as tabelas e contrui queries avançadas :muscle:</p>
 
 ### Tecnologias Utizadas 
 
